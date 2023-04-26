@@ -1,0 +1,3 @@
+{"numero":"21982230479","mensagem":"Olá Ronan tudo bem?","horario":"2023-04-25T23:51:22.956Z"}
+{"numero":"21965803513","mensagem":"Olha a pedra!!!","horario":"2023-04-26T00:51:07.856Z"}
+{"numero":"21965803513","mensagem":"HAAAAAA","horario":"2023-04-26T00:51:34.946Z"}
